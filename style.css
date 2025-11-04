@@ -1,0 +1,22 @@
+.header-super {
+  background-image: url('https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2024/05/p-1-91121325-swiss-army-knives.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  position: relative;
+}
+
+.header-text {
+  height: 100%;
+}
+.header-title {
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+body{
+  background-color: darksalmon;
+}
